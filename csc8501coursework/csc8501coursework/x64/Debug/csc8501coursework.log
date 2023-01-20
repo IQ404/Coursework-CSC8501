@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Xiaoyang\Desktop\csc8501coursework\csc8501coursework\SimplePolynomial.h(82,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaoyang\Desktop\csc8501coursework\csc8501coursework\States.h(377,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  csc8501coursework.vcxproj -> C:\Users\Xiaoyang\Desktop\csc8501coursework\x64\Debug\csc8501coursework.exe
